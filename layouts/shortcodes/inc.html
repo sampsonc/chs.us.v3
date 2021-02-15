@@ -1,0 +1,5 @@
+<pre>
+{{ $filename := .Get "file" }}
+{{ $file := readFile $filename }}
+{{ (print $file) }}
+</pre>
