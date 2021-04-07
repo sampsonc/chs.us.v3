@@ -92,7 +92,7 @@ googleAnalytics = "UA-92888611-1" # Enable Google Analytics by entering your tra
     name = "RSS Feed"
     pre = "<i class='fa fa-road'></i>"
     url = "//index.xml"
-    weight = 1000
+    weight = 1001
 
   [[menu.main]]
     name = "Schedule a Meeting"
@@ -104,5 +104,5 @@ googleAnalytics = "UA-92888611-1" # Enable Google Analytics by entering your tra
     name = "Links"
     pre = "<i class='fa fa-road'></i>"
     url = "//links/"
-    weight = 1001
+    weight = 1000
 
