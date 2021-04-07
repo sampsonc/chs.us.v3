@@ -95,12 +95,6 @@ googleAnalytics = "UA-92888611-1" # Enable Google Analytics by entering your tra
     weight = 1001
 
   [[menu.main]]
-    name = "Schedule a Meeting"
-    pre = "<i class='fa fa-road'></i>"
-    url = "https://calendly.com/sampsonc"
-    weight = 999
-
-  [[menu.main]]
     name = "Links"
     pre = "<i class='fa fa-road'></i>"
     url = "//links/"
