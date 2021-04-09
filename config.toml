@@ -48,8 +48,8 @@ googleAnalytics = "UA-92888611-1" # Enable Google Analytics by entering your tra
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
-  list = "left"  # Configure layout for list pages
-  single = false # Configure layout for single pages
+  list = "right"  # Configure layout for list pages
+  single = right # Configure layout for single pages
   # Enable widgets in given order
   #widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
