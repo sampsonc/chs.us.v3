@@ -3,7 +3,7 @@ title: Secure Design Principles
 author: Carl Sampson
 type: post
 date: 2017-12-23T02:50:37+00:00
-url: /secure-design-principles/
+url: /blog/secure-design-principles/
 tags: ["security"]
 
 

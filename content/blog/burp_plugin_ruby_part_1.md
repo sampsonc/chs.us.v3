@@ -3,7 +3,7 @@ title: "Writing a Burp Extension in Ruby Part 1"
 date: 2020-11-18T14:05:18-05:00
 draft: false
 type: post
-url: /burp_plugin_ruby_part_1/
+url: /blog/burp_plugin_ruby_part_1/
 tags: ["burp", "ruby"]
 ---
 

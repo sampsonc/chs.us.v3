@@ -3,7 +3,7 @@ title: 2 Gems Updated
 author: Carl Sampson
 type: post
 date: 2017-12-20T02:57:52+00:00
-url: /gemsupdated/
+url: /blog/gemsupdated/
 tags: ["security", "ruby"]
 
 ---

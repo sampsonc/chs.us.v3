@@ -3,7 +3,7 @@ title: New version of jekyll-clicky!
 author: Carl Sampson
 type: post
 date: 2018-06-01T04:21:30+00:00
-url: /new-version-of-jekyll-clicky/
+url: /blog/new-version-of-jekyll-clicky/
 tags: ["ruby"]
 
 

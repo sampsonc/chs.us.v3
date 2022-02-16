@@ -3,7 +3,7 @@ title: New Project!
 author: Carl Sampson
 type: post
 date: 2020-01-26T06:25:39+00:00
-url: /new-project/
+url: /blog/new-project/
 tags: ["security"]
 
 ---

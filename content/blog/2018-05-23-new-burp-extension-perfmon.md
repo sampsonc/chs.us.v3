@@ -3,7 +3,7 @@ title: New Burp Extension – Perfmon
 author: Carl Sampson
 type: post
 date: 2018-05-23T04:23:30+00:00
-url: /new-burp-extension-perfmon/
+url: /blog/new-burp-extension-perfmon/
 tags: ["burp", "security"]
 
 

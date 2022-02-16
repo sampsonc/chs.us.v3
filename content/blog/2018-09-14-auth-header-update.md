@@ -3,7 +3,7 @@ title: Auth Header Updater Released!
 author: Carl Sampson
 type: post
 date: 2018-09-14T03:43:07+00:00
-url: /auth-header-update/
+url: /blog/auth-header-update/
 tags: ["burp"]
 
 

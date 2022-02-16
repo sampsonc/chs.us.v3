@@ -4,7 +4,7 @@ author: Carl Sampson
 type: post
 date: 2019-09-01T06:25:39+00:00
 draft: false
-url: /python-list-comprehensions
+url: /blog/python-list-comprehensions
 tags: ["python"]
 
 ---

@@ -3,7 +3,7 @@ title: AuthHeader Updater listed on snoopysecurity/awesome-burp-extensions
 author: Carl Sampson
 type: post
 date: 2018-11-25T01:40:01+00:00
-url: /authheader-updater-listed-on-snoopysecurity-awesome-burp-extensions/
+url: /blog/authheader-updater-listed-on-snoopysecurity-awesome-burp-extensions/
 tags: ["burp", "security"]
 
 ---

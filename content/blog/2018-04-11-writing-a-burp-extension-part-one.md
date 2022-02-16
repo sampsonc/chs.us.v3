@@ -3,7 +3,7 @@ title: Writing a Burp Extension – Part One
 author: Carl Sampson
 type: post
 date: 2018-04-11T04:29:25+00:00
-url: /writing-a-burp-extension-part-one/
+url: /blog/writing-a-burp-extension-part-one/
 tags: ["burp"]
 
 

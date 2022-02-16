@@ -3,7 +3,7 @@ title: Extending Burp at DerbyCon VII
 author: Carl Sampson
 type: post
 date: 2017-09-22T03:02:52+00:00
-url: /extendingburptalk/
+url: /blog/extendingburptalk/
 tags: ["security", "burp"]
 
 ---
