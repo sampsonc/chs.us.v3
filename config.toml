@@ -83,6 +83,12 @@ disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus short
 #  url = "http://example.com"
 
   [[menu.main]]
+    name = "Blog"
+    pre = "<i class='fa fa-road'></i>"
+    url = "//blog/"
+    weight = -101
+
+  [[menu.main]]
     name = "appsec.fyi"
     pre = "<i class='fa fa-road'></i>"
     url = "https://appsec.fyi/"
