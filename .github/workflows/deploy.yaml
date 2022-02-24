@@ -19,7 +19,7 @@ jobs:
       with:
         key: ${{ secrets.SSH_KEY }}
         name: id_rsa
-        known_hosts: ${{ secrets.KNOWN_HOSTS }}
+        known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
  
     - name: Checkout code
       uses: actions/checkout@v2
