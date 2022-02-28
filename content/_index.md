@@ -16,6 +16,10 @@ I'm an application security geek.
 - [Anthem](https://www.antheminc.com/)
 - Others
 
+## Some presentations I've done-
+- [Ruby and Security @ CircleCityCon](https://www.slideshare.net/sampsonc/ruby-and-security-44931371)
+- [Extending Burp @ DerbyCon](https://www.slideshare.net/sampsonc/extending-burp)
+
 ## Things that I'm interested in-
 - I started the [OWASP Indianapolis](https://owasp.org/www-chapter-indianapolis/) chapter in 2005 and continue to serve on the leadership team.
 - I curate a site called [Appsec.fyi](https://appsec.fyi/).  It contains a collection of links related to application security.   It has since evolved into generally anything technical that I'm interested in, broken down by subject.  I collect the links in [Pocket](https://getpocket.com/@a5bA8g26d79a6T5d4ap7b01p40Tbdf3f98bw6bkb22Yx55A81di6dy80ZxoBq4c1?src=navbar) and the site is automatically updated whenever articles are tagged.
