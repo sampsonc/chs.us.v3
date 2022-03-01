@@ -16,7 +16,7 @@ I'm an application security geek.
 - [Anthem](https://www.antheminc.com/)
 - Others
 
-## Some presentations I've done-
+## Presentations I've done-
 - [Ruby and Security @ CircleCityCon](https://www.slideshare.net/sampsonc/ruby-and-security-44931371)
 - [Extending Burp @ DerbyCon](https://www.slideshare.net/sampsonc/extending-burp)
 
