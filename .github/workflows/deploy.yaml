@@ -36,6 +36,9 @@ jobs:
 
     - name: ls directory
       run: ls -al /home/runner/work/chs.us.v3/chs.us.v3/public
+
+    - name: Make hidden dir anc copy
+      run: mkdir public/.well-known & cp content/.well-known/* public/.well-known
  
     - name: Copy to webserver
       run: rsync -avz --delete public/ chs@chs.us:chs.us/
