@@ -37,5 +37,5 @@ jobs:
     - name: Copy to webserver
       run: rsync -avz --delete public/ chs@chs.us:chs.us/
 
-    -name: ls directory
+    - name: ls directory
       run: ls -al /home/runner/work/chs.us.v3/chs.us.v3/content
