@@ -112,3 +112,7 @@ disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus short
     url = "//links/"
     weight = 1000
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe=true
