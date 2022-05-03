@@ -38,4 +38,4 @@ jobs:
       run: rsync -avz --delete public/ chs@chs.us:chs.us/
 
     -name: ls directory
-      run: ls -al /home/runner/work/chs.us.v3/chs.us.v3
+      run: ls -al /home/runner/work/chs.us.v3/chs.us.v3/content
