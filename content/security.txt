@@ -1,0 +1,6 @@
+Contact: mailto:chs@chs.us
+Contact: mailto:carl.sampson@gmail.com
+Expires: 2026-05-03T04:00:00.000Z
+Encryption: https://chs.us/pgp.txt
+Preferred-Languages: en
+Canonical: https://chs.us/.well-known/security.txt
