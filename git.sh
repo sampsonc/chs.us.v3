@@ -1,1 +1,1 @@
-git add .; git commit -m "Fixes"; git push -u origin master
+git add .; git commit -m "Content"; git push -u origin master
