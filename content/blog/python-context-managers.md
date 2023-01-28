@@ -18,7 +18,9 @@ Once the block of code has been executed, the __exit__() method is called on the
 
 One of the main benefits of using context managers is that they help to ensure that resources are properly cleaned up, even if an exception is raised. This can prevent resource leaks and make your code more robust.
 
-Python provides a built-in context manager, the open() function, which can be used to safely open and close files. For example:
+Python provides a built-in context manager, the open() function, which can be used to safely open and close files. 
+
+For example:
 
 ```python
 with open("example.txt", "w") as file:
