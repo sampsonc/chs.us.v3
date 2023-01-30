@@ -112,11 +112,11 @@ disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus short
     url = "//links/"
     weight = 1000
 
-  [[menu.main]]
-    name = "My GPG Key"
-    pre = "<i class='fa fa-road'></i>"
-    url = "//gpg.txt"
-    weight = 1001
+  #[[menu.main]]
+  #  name = "My GPG Key"
+  #  pre = "<i class='fa fa-road'></i>"
+  #  url = "//gpg.txt"
+  #  weight = 1001
 
 [markup]
   [markup.goldmark]
