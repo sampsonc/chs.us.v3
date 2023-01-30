@@ -10,6 +10,7 @@ layout: simple-static
 I'm an application security geek.
 
 ## Places I've Worked- 
+- [Microsoft](https://www.microsoft.com)
 - [Proofpoint](https://proofpoint.com)
 - [Salesforce](https://www.salesforce.com)
 - [Teradata](https://www.teradata.com")
