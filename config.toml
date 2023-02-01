@@ -88,11 +88,11 @@ disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus short
     url = "//blog/"
     weight = -101
 
-  [[menu.main]]
-    name = "Meet"
-    pre = "<i class='fa fa-road'></i>"
-    url = "https://calendly.com/sampsonc"
-    weight = -102
+  #[[menu.main]]
+  #  name = "Meet"
+  #  pre = "<i class='fa fa-road'></i>"
+  #  url = "https://calendly.com/sampsonc"
+  #  weight = -102
 
   [[menu.main]]
     name = "appsec.fyi"
