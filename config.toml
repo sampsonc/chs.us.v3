@@ -106,11 +106,11 @@ disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus short
     url = "//index.xml"
     weight = 1001
 
-  [[menu.main]]
-    name = "Links"
-    pre = "<i class='fa fa-road'></i>"
-    url = "//links/"
-    weight = 1000
+  #[[menu.main]]
+  #  name = "Links"
+  #  pre = "<i class='fa fa-road'></i>"
+  #  url = "//links/"
+  #  weight = 1000
 
   #[[menu.main]]
   #  name = "My GPG Key"
