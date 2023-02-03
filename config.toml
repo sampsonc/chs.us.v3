@@ -100,11 +100,11 @@ disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus short
     url = "https://appsec.fyi/"
     weight = -100
 
-  [[menu.main]]
-    name = "RSS Feed"
-    pre = "<i class='fa fa-road'></i>"
-    url = "//index.xml"
-    weight = 1001
+#  [[menu.main]]
+#    name = "RSS Feed"
+#    pre = "<i class='fa fa-road'></i>"
+#    url = "//index.xml"
+#    weight = 1001
 
   #[[menu.main]]
   #  name = "Links"
