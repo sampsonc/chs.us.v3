@@ -1,7 +1,7 @@
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.
   [headers.values]
-    Permissions-Policy = "microphone 'none'; camera 'none'"
+    #Permissions-Policy = "microphone 'none'; camera 'none'"
     X-Frame-Options = "SAMEORIGIN"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "no-referrer-when-downgrade"
