@@ -3,7 +3,7 @@ title: "Writing a Basic Burp Extension in Python"
 date: 2023-02-02T09:16:20-04:00
 author: Carl Sampson
 type: post
-url: /blog/
+url: /blog/burp-extension-in-python
 tags: ["python", "burp"]
 draft: false
 ---
