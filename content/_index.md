@@ -1,4 +1,3 @@
-<!doctype html><html class=no-js lang="en-US" itemscope itemtype="http://schema.org/WebPage">
 ---
 title: "Content"
 date: 2022-02-16T09:00:50-05:00
