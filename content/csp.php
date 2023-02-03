@@ -13,7 +13,7 @@ if ($data = json_decode($data)) {
 		$data,
 		JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES
 	);
-    file_put_contents("../logs/csp.log", $data."\n", FILE_APPEND);
+    file_put_contents("../logs/csp.log", $data."\n\n", FILE_APPEND);
 }
 
 ?>
