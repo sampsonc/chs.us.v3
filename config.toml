@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://chs.us/"
 title = "chs.us"
 languageCode = "en-us"
 paginate = "15" # Number of posts per page
