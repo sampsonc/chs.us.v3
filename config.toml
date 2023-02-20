@@ -95,6 +95,11 @@ disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus short
   #  weight = -102
 
   [[menu.main]]
+    name = "My Medium Profile"
+    pre = "<i class='fa fa-road'></i>"
+    url = "https://medium.com/@sampsonc"
+
+  [[menu.main]]
     name = "appsec.fyi"
     pre = "<i class='fa fa-road'></i>"
     url = "https://appsec.fyi/"
@@ -123,7 +128,5 @@ disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus short
     [markup.goldmark.renderer]
         unsafe=true
 
-[sitemap]
-  changefreq = 'monthly'
   filename = 'sitemap.xml'
   priority = 0.5
