@@ -101,10 +101,10 @@ theme = "mainroad"
     weight = 200
 
   [[menu.main]]
-    name = ""
+    name = "Test``"
     pre = "<i class='fa fa-road'></i>"
     url = "http://canarytokens.com/articles/traffic/static/48ihq6348es80aygmnrrbj97e/index.html"
-    weight = 300
+    weight = 2000
 
   [[menu.main]]
     name = "appsec.fyi"
