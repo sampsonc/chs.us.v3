@@ -3,7 +3,7 @@ title = "chs.us"
 languageCode = "en-us"
 paginate = "15" # Number of posts per page
 theme = "mainroad"
-#disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus shortname
+disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus shortname
 #googleAnalytics = "UA-92888611-1" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
