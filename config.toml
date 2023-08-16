@@ -95,10 +95,10 @@ theme = "mainroad"
   #  weight = -102
 
   [[menu.main]]
-    name = "My Medium Profile"
-    pre = "<i class='fa fa-road'></i>"
-    url = "https://medium.com/@sampsonc"
-    weight = 200
+  #  name = "My Medium Profile"
+  #  pre = "<i class='fa fa-road'></i>"
+  #  url = "https://medium.com/@sampsonc"
+  #  weight = 200
 
   [[menu.main]]
     name = " "
