@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/chs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chs.us
+  * I am chs (https://keybase.io/chs) on keybase.
+  * I have a public key with fingerprint 27A9 1AB8 898B 12E7 C036  E4A4 4562 4AB8 0B9C 1E51
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202641f3c63c632b16c69dc10dcf3cc30a493ad94e236ec9350a8d43585ff6be5b0a",
+      "fingerprint": "27a91ab8898b12e7c036e4a445624ab80b9c1e51",
+      "host": "keybase.io",
+      "key_id": "45624ab80b9c1e51",
+      "kid": "010104767ffaa34ee0c091cfec3731355edd5e744cf2f0cd428d4e95dcce1b6982780a",
+      "uid": "261c0d7d0f208942cc5513fdf5635c00",
+      "username": "chs"
+    },
+    "merkle_root": {
+      "ctime": 1692289705,
+      "hash_meta": "6aeea8da3644c1c5d77819037fb86dec25758e7c3fdaf5f2422b33dbe4e2858f",
+      "seqno": 24819901
+    },
+    "revoke": {
+      "sig_ids": [
+        "dd67402b8daed0db02276b9a8f13e913e46332c74a9c36221a9e42c5face83df0f"
+      ]
+    },
+    "service": {
+      "hostname": "chs.us",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1692289738,
+  "expire_in": 157680000,
+  "prev": "6658432228d9de42b45c11030418cfc0f7984e4ce71416ca40778de14aaf2c74",
+  "seqno": 90,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMP0AnicbVMNbE5XGO6PMp/0K8vYxqrcsM40dc655/59KOtmpabrzCIo3+4959z2
++n5u+92vpbqq0JjfzRrRsNaIpKVIzcowm6DoMO1CiY1l5meViX1CZpZh5zYTybL7
+k5v73ud53ud97jmtyYlxnvgJRu6+PnWD34k/dSRYGkd/yj1ZIRg2LRd8FUKAdT9Y
+kDIn6g9YVPAJACKAZAxNkcjuhQwoE1mjBAJKeJGIQMeaqFMNMyTKjGiiBHSVYlFS
+JdOUDSYZQBcyBNMKF7JIccQKR7ksUnQN6oaqaqoBEVMI4FysYyzJCPM6MDQCmQQ5
+sch2XAY3Z+gOy7RsXuMv/m57/4N/4pufWJEV09R1ETMGCNAgMRkRFRGKksQolZiC
+MTGRCQjFiHtmmkQJYdCQNRUparfv0m45JEMCqEKBiYCqYUSIJEHRpKYkixIBwAU6
+LBLWQ4yjSZEjVGYIIRYJBJk/YttRN1cStdyvUNYQUjUFSHw23Snyh1hU5yRZZ4wH
+p4syNwWJRBVFhRoQFdNQZcoIkhRJ5UnxrropmQgjZIgiNRgPXpVUk1twWEnYFnwI
+c6IGILcQYWV2gLndHauQR+YIvlkCpbKCATJ4M0YBNQBCimxoumpCkWn8xrIoIqJg
+XSOijBDUNcZHlkydMFWkJjCF2ZVut0iZRbrF3X/0dPbMUoebKY7YUZvYQV4rikaL
+HZ8bSbS82AXNY4b/X7rfsMKUrw3OKGMRx7LDPCKO/E9aopohsPnFVoT5LRchKbIK
++OH2YWVufLKkYhFxMNUot2tgiUAIRIChSkwCTEVTMcOEKRDzJaxjwPOlDGJdN91Z
+n8ancdGoXsg1eWZhPVoaYULlkcMFPeLiPXE9kxLcTRPn6d33yVZqWJTyaEzX2jDY
++3yLMbfg6oAzl/0BadlYeyMYEU2fnNNWl7DdytraFp+388z+8uTkvFjzInHhrtVV
+oerXb9fkP9fZ0vnw7Xn1TY0fpeRva56Ys7n964MeMELe6wttzO/wjsuO7mj7fGDB
+5gGj2jNuyftvBNKGjj7SWXn0YtzmLRdC5TNXLO3q7H1MCC1eUPgsvHt6Rq+M2PdX
+sucHr+Yjz1th7fLj8y9tWPHLsZT18btWNc3q753W74PvCnJ+/zgh9e8742p+PTP5
+8Pg7a5Z9FnnYp6nHi78tPjYu7dLjST2O3wr+fH/CmAtlDeOHl8RSySswqaPmmS7v
+tXnqqsD5nQk5V96rzYKpi0cWrT7fr3zt8UBzTXP2dPrpolf7D+p1b4jv3At/WE2t
+LWmND+6F5lbG7boa+GHggfSsseu2rDkae5Q0esoc6UbV3d7rL3w7u/3iwcxJm+Kz
+Ww9d2fpm7ZDqKQtajg6PvdzwRebUbRvkB302xHK1xDHbe+L0H71Mvr1x+oBP2gal
+Xqyemlchf1k/eGXwRKJ8cnbjng7yxvY6adONznPLT3TN+Sbt0btLKu6fHTrww9cm
+T2uN7V5yfeXZsclWYFj9Uu+OYf0F74GWquWjytP+yrv+fq2TkpFVcfOanbTbON3Q
+jkvDidV9OyrTskeXODNAnQd9dSl9U0njxPp1p+k5deHNP2vtJfuqTu3JPuSZqWgj
+vf8AM+Pynw==
+=xWf8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chs
+
+==================================================================
