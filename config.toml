@@ -2,7 +2,7 @@ baseurl = "https://chs.us/"
 title = "chs.us"
 languageCode = "en-us"
 paginate = "15" # Number of posts per page
-theme = "mainroad"
+theme = "hugo-octopress"
 #disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus shortname
 #googleAnalytics = "UA-92888611-1" # Enable Google Analytics by entering your tracking id
 
@@ -82,12 +82,6 @@ theme = "mainroad"
 #  title = "My Home Page"
 #  url = "http://example.com"
 
-  [[menu.main]]
-    name = "Blog"
-    pre = "<i class='fa fa-road'></i>"
-    url = "//blog/"
-    weight = -101
-
   #[[menu.main]]
   #  name = "Meet"
   #  pre = "<i class='fa fa-road'></i>"
@@ -119,16 +113,10 @@ theme = "mainroad"
 #    weight = 1001
 
   [[menu.main]]
-    name = "Links"
+    name = "links"
     pre = "<i class='fa fa-road'></i>"
-    url = "//links/"
+    url = "//links/index.html"
     weight = 1000
-
-  #[[menu.main]]
-  #  name = "My GPG Key"
-  #  pre = "<i class='fa fa-road'></i>"
-  #  url = "//gpg.txt"
-  #  weight = 1001
 
 [markup]
   [markup.goldmark]
