@@ -6,7 +6,7 @@ theme = "mainroad"
 #disqusShortname = "chsus" # Enable Disqus comments by entering your Disqus shortname
 #googleAnalytics = "UA-92888611-1" # Enable Google Analytics by entering your tracking id
 
-[Author] # Used in authorbox
+[params.author.name] # Used in authorbox
   name = "Carl Sampson"
   bio = "I am an application security guy living in Indiana. I also started and lead the OWASP Indianapolis Chapter."
   avatar = "images/chs_avatar.jpg"
